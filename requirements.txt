@@ -1,0 +1,7 @@
+torch
+torchvision
+opencv-python
+huggingface_hub
+einops
+triton-windows
+sam3
