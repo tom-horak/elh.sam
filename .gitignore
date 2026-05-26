@@ -1,5 +1,16 @@
+# Data and models
+checkpoints/
+data/input_videos/
+data/output_videos/
+*.mp4
+
 # Byte-compiled / optimized / DLL files
+# Python specific
 __pycache__/
+*.pyc
+.venv/
+.Rhistory
+.Ruser_profile
 *.py[codz]
 *$py.class
 
@@ -216,3 +227,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.Rproj.user
+.positai
